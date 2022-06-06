@@ -1,0 +1,22 @@
+h1{color: green}
+.txt{
+	font-size: 20px;         
+	color:blue;            
+}
+#font2{
+	font-size: 20px;
+	color:red;
+}
+div{
+	font-size: 20px;
+	color:orange;
+}
+h3{
+	font-family:"DFKai-sb";
+	background-color: rgba(251, 243, 10, 0.793);
+}
+p{
+	font-size: 20px;
+	color: rgb(206, 24, 94);
+	font-weight:bold;
+}
